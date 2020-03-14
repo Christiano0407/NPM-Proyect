@@ -1,0 +1,24 @@
+{
+  "name": "jsnpm",
+  "version": "1.0.0",
+  "description": "construir un paquete para node",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "package"
+  ],
+  "author": "Chris Velázquez",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^6.8.0",
+    "moment": "^2.24.0",
+    "webpack": "^4.42.0"
+  },
+  "devDependencies": {
+    "date-fns": "^2.11.0"
+  }
+}
